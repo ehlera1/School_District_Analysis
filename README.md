@@ -97,7 +97,7 @@ School type summary after adjustment:
 
 ![7_Type_Summary_Final](https://user-images.githubusercontent.com/90698381/137794857-3bd163b4-21f3-4b0d-b52d-185f8deabad0.png)
 
-## Summary: 
+## Summary 
 
 To summarize our analysis after replacing the 9th grade scores for Thomas Highschool.  It was clear to see that there were changes in the overall results. The district’s average math score dropped by 0.1%, the passing math percentage dropped by 0.2% and the overall passing percentage dropped 0.1%. The most noticeable changes were specifically related to Thomas High School. Thomas High School had reductions in their average math score, passing math percentage, passing reading percentage, and overall passing percentage. When averaging the scores and percentages it appeared that there were no significant changes to report on. We are glad to have completed this secondary analysis for Maria and hope she continues to engage us for further analysis. 
 
